@@ -1,0 +1,59 @@
+:root {
+  --sfr-surface: #0b1220;
+  --sfr-surface-2: #0f1b33;
+  --sfr-accent: #0d6efd;
+  --sfr-card-bg: rgba(255, 255, 255, 0.05);
+  --sfr-panel-bg: rgba(0, 0, 0, 0.18);
+  --sfr-border: rgba(255, 255, 255, 0.10);
+  --sfr-muted-text: rgba(255, 255, 255, 0.72);
+}
+
+body {
+  background: linear-gradient(180deg, var(--sfr-surface), #070b14);
+  min-height: 100vh;
+  color: #fff;
+}
+
+.sfr-card {
+  border: 1px solid var(--sfr-border);
+  background: var(--sfr-card-bg);
+}
+
+.sfr-muted {
+  color: var(--sfr-muted-text);
+}
+
+.sfr-panel {
+  background: var(--sfr-panel-bg);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.sfr-input {
+  background: rgba(255, 255, 255, 0.04);
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.16);
+}
+
+.sfr-input:focus {
+  background: rgba(255, 255, 255, 0.05);
+  color: #fff;
+  border-color: rgba(13, 110, 253, 0.65);
+  box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.18);
+}
+
+.sfr-navbar {
+  background: rgba(0, 0, 0, 0.10);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.sfr-footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.sfr-card.card {
+  border-color: var(--sfr-border);
+}
+
+.sfr-card .card-footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
