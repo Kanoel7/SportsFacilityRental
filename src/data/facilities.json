@@ -1,0 +1,270 @@
+[
+  {
+    "id": "ff-aurora-01",
+    "name": "Aurora Football Field",
+    "category": "Football",
+    "location": "Riverside Sports Park",
+    "shortDescription": "Full-size outdoor pitch with evening lighting and a modern locker zone.",
+    "description": "Aurora Football Field is designed for competitive 11v11 matches and structured training sessions. The surface is a hybrid grass system with consistent bounce, and the LED floodlights provide excellent visibility after sunset.",
+    "pricePerHour": 80,
+    "capacity": 22,
+    "indoor": false,
+    "amenities": [
+      "LED floodlights",
+      "Locker rooms",
+      "Free parking",
+      "Shower access",
+      "Equipment storage"
+    ],
+    "recommendedFor": [
+      "League matches",
+      "Team training",
+      "Tournament day rentals"
+    ],
+    "theme": {
+      "badge": "Best for teams",
+      "color": "#0d6efd"
+    }
+  },
+    {
+    "id": "ff-elite-04",
+    "name": "Elite Football Ground",
+    "category": "Football",
+    "location": "Downtown Sports Hub",
+    "shortDescription": "High-quality turf with night lighting and locker facilities.",
+    "description": "Elite Football Ground is designed for professional matches and training sessions. It features premium turf and excellent lighting for evening games.",
+    "pricePerHour": 95,
+    "capacity": 28,
+    "indoor": false,
+    "amenities": [
+      "Premium turf",
+      "Night lighting",
+      "Locker rooms",
+      "Parking"
+    ],
+    "recommendedFor": [
+      "Professional matches",
+      "Team training",
+      "Corporate events"
+    ],
+    "theme": {
+      "badge": "Premium ground",
+      "color": "#0d6efd"
+    }
+  },
+
+  {
+    "id": "tc-zenith-02",
+    "name": "Zenith Tennis Court",
+    "category": "Tennis",
+    "location": "Central Racquet Club",
+    "shortDescription": "Premium hard court with adjustable net height and ball machine support.",
+    "description": "Zenith Tennis Court is a competition-grade hard court with clear line visibility and reliable drainage. The facility includes a practice wall and optional ball machine rental during booking.",
+    "pricePerHour": 28,
+    "capacity": 4,
+    "indoor": false,
+    "amenities": [
+      "Practice wall",
+      "Seating area",
+      "Water refill station",
+      "On-site coach availability"
+    ],
+    "recommendedFor": [
+      "Singles",
+      "Doubles",
+      "Skill drills"
+    ],
+    "theme": {
+      "badge": "Precision court",
+      "color": "#198754"
+    }
+  },
+    {
+    "id": "tc-champion-05",
+    "name": "Champion Tennis Court",
+    "category": "Tennis",
+    "location": "Champion Racquet Club",
+    "shortDescription": "Top-tier hard court with advanced drainage and lighting.",
+    "description": "Champion Tennis Court offers a professional-grade hard surface, ideal for tournaments and advanced practice. Includes night lighting and a seating area.",
+    "pricePerHour": 38,
+    "capacity": 4,
+    "indoor": false,
+    "amenities": [
+      "Hard surface",
+      "Night lighting",
+      "Seating area",
+      "Water station"
+    ],
+    "recommendedFor": [
+      "Tournaments",
+      "Skill drills",
+      "Advanced practice"
+    ],
+    "theme": {
+      "badge": "Top-tier court",
+      "color": "#198754"
+    }
+  },
+
+  {
+    "id": "gy-iron-hub-03",
+    "name": "Iron Hub Gym Studio",
+    "category": "Gym",
+    "location": "North District Fitness Hall",
+    "shortDescription": "Private strength studio with racks, sled track, and smart timers.",
+    "description": "Iron Hub is a bookable studio for focused training. It includes two power racks, bumper plates, kettlebells, and a short indoor sled track. The studio is ideal for small groups who want privacy and predictable equipment access.",
+    "pricePerHour": 35,
+    "capacity": 8,
+    "indoor": true,
+    "amenities": [
+      "Power racks",
+      "Sled track",
+      "Smart wall timer",
+      "Bluetooth speakers",
+      "Air conditioning"
+    ],
+    "recommendedFor": [
+      "Strength sessions",
+      "Small-group coaching",
+      "Rehab circuits"
+    ],
+    "theme": {
+      "badge": "Private studio",
+      "color": "#fd7e14"
+    }
+  },
+  {
+    "id": "bb-skyline-04",
+    "name": "Skyline Basketball Court",
+    "category": "Basketball",
+    "location": "Westside Multi-Sport Arena",
+    "shortDescription": "Indoor court with scoreboard, bleachers, and premium hardwood.",
+    "description": "Skyline Basketball Court offers a tournament-ready hardwood surface, a digital scoreboard, and seating for spectators. The arena is climate controlled and ideal for team scrimmages or casual pickup games.",
+    "pricePerHour": 55,
+    "capacity": 16,
+    "indoor": true,
+    "amenities": [
+      "Digital scoreboard",
+      "Bleacher seating",
+      "Locker rooms",
+      "Water station"
+    ],
+    "recommendedFor": [
+      "Pickup games",
+      "Scrimmages",
+      "Skills clinics"
+    ],
+    "theme": {
+      "badge": "Indoor arena",
+      "color": "#6f42c1"
+    }
+  },
+
+
+  {
+    "id": "sw-blue-lane-05",
+    "name": "Blue Lane Swimming Pool",
+    "category": "Swimming",
+    "location": "East Aquatic Center",
+    "shortDescription": "25m pool lane reservation with lifeguard coverage.",
+    "description": "Reserve dedicated lanes for training sessions or technique practice. Blue Lane includes lifeguard supervision, clean changing rooms, and a warm-up area.",
+    "pricePerHour": 18,
+    "capacity": 10,
+    "indoor": true,
+    "amenities": [
+      "Lane ropes",
+      "Lifeguard",
+      "Changing rooms",
+      "Hair dryers"
+    ],
+    "recommendedFor": [
+      "Technique training",
+      "Endurance sets",
+      "Small-group lessons"
+    ],
+    "theme": {
+      "badge": "Lane booking",
+      "color": "#0dcaf0"
+    }
+  },
+  {
+    "id": "sw-lagoon-09",
+    "name": "Lagoon Swimming Pool",
+    "category": "Swimming",
+    "location": "Lagoon Aquatic Center",
+    "shortDescription": "Spacious pool with lifeguard supervision and modern facilities.",
+    "description": "Lagoon Swimming Pool is perfect for recreational swimming and training. It features a spacious design, lifeguard supervision, and clean changing rooms.",
+    "pricePerHour": 20,
+    "capacity": 10,
+    "indoor": true,
+    "amenities": [
+      "Spacious pool",
+      "Lifeguard",
+      "Changing rooms",
+      "Showers"
+    ],
+    "recommendedFor": [
+      "Recreational swimming",
+      "Group lessons",
+      "Training sessions"
+    ],
+    "theme": {
+      "badge": "Modern pool",
+      "color": "#0dcaf0"
+    }
+  },
+
+  {
+    "id": "bd-pulse-06",
+    "name": "Pulse Badminton Court",
+    "category": "Badminton",
+    "location": "Metro Indoor Courts",
+    "shortDescription": "Fast indoor court with anti-glare lighting and easy access.",
+    "description": "Pulse Badminton Court is optimized for speed and visibility. Anti-glare lighting reduces eye strain, and the non-slip flooring keeps footwork confident even during intense rallies.",
+    "pricePerHour": 20,
+    "capacity": 4,
+    "indoor": true,
+    "amenities": [
+      "Anti-glare lighting",
+      "Non-slip flooring",
+      "Racket rental",
+      "Locker cubbies"
+    ],
+    "recommendedFor": [
+      "Competitive rallies",
+      "Beginner lessons",
+      "Doubles sessions"
+    ],
+    "theme": {
+      "badge": "Fast & bright",
+      "color": "#20c997"
+    }
+  },
+{
+    "id": "bd-ace-10",
+    "name": "Ace Badminton Court",
+    "category": "Badminton",
+    "location": "Ace Indoor Courts",
+    "shortDescription": "Fast indoor court with anti-slip flooring and bright lighting.",
+    "description": "Ace Badminton Court is optimized for high-speed games with anti-slip flooring and bright lighting. Perfect for competitive rallies and training.",
+    "pricePerHour": 22,
+    "capacity": 4,
+    "indoor": true,
+    "amenities": [
+      "Anti-slip flooring",
+      "Bright lighting",
+      "Racket rental",
+      "Locker cubbies"
+    ],
+    "recommendedFor": [
+      "Competitive rallies",
+      "Beginner lessons",
+      "Doubles matches"
+    ],
+    "theme": {
+      "badge": "Fast-paced court",
+      "color": "#20c997"
+    }
+  }
+  
+]
