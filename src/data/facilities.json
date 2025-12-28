@@ -20,11 +20,7 @@
       "League matches",
       "Team training",
       "Tournament day rentals"
-    ],
-    "theme": {
-      "badge": "Best for teams",
-      "color": "#0d6efd"
-    }
+    ]
   },
     {
     "id": "ff-elite-04",
@@ -46,11 +42,7 @@
       "Professional matches",
       "Team training",
       "Corporate events"
-    ],
-    "theme": {
-      "badge": "Premium ground",
-      "color": "#0d6efd"
-    }
+    ]
   },
 
   {
@@ -73,11 +65,7 @@
       "Singles",
       "Doubles",
       "Skill drills"
-    ],
-    "theme": {
-      "badge": "Precision court",
-      "color": "#198754"
-    }
+    ]
   },
     {
     "id": "tc-champion-05",
@@ -99,11 +87,7 @@
       "Tournaments",
       "Skill drills",
       "Advanced practice"
-    ],
-    "theme": {
-      "badge": "Top-tier court",
-      "color": "#198754"
-    }
+    ]
   },
 
   {
@@ -127,11 +111,7 @@
       "Strength sessions",
       "Small-group coaching",
       "Rehab circuits"
-    ],
-    "theme": {
-      "badge": "Private studio",
-      "color": "#fd7e14"
-    }
+    ]
   },
   {
     "id": "bb-skyline-04",
@@ -153,11 +133,7 @@
       "Pickup games",
       "Scrimmages",
       "Skills clinics"
-    ],
-    "theme": {
-      "badge": "Indoor arena",
-      "color": "#6f42c1"
-    }
+    ]
   },
 
 
@@ -181,11 +157,7 @@
       "Technique training",
       "Endurance sets",
       "Small-group lessons"
-    ],
-    "theme": {
-      "badge": "Lane booking",
-      "color": "#0dcaf0"
-    }
+    ]
   },
   {
     "id": "sw-lagoon-09",
@@ -207,11 +179,7 @@
       "Recreational swimming",
       "Group lessons",
       "Training sessions"
-    ],
-    "theme": {
-      "badge": "Modern pool",
-      "color": "#0dcaf0"
-    }
+    ]
   },
 
   {
@@ -234,11 +202,7 @@
       "Competitive rallies",
       "Beginner lessons",
       "Doubles sessions"
-    ],
-    "theme": {
-      "badge": "Fast & bright",
-      "color": "#20c997"
-    }
+    ]
   },
 {
     "id": "bd-ace-10",
@@ -260,11 +224,7 @@
       "Competitive rallies",
       "Beginner lessons",
       "Doubles matches"
-    ],
-    "theme": {
-      "badge": "Fast-paced court",
-      "color": "#20c997"
-    }
+    ]
   }
   
 ]
