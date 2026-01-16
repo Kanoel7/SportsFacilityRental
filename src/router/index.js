@@ -3,6 +3,8 @@ import HomeView from '@/views/HomeView.vue'
 import FacilitiesListView from '@/views/FacilitiesListView.vue'
 import FacilityDetailView from '@/views/FacilityDetailView.vue'
 import AboutView from '@/views/AboutView.vue'
+import BookingsView from '@/views/BookingsView.vue'
+import NotFoundView from '@/views/NotFoundView.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -26,6 +28,16 @@ const router = createRouter({
       name: 'facility-detail',
       component: FacilityDetailView,
       props: true,
+    },
+    {
+      path: '/bookings',
+      name: 'bookings',
+      component: BookingsView,
+    },
+    {
+      path: '/:pathMatch(.*)*',
+      name: 'not-found',
+      component: NotFoundView,
     },
   ],
 })
